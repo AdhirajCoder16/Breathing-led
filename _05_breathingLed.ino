@@ -1,9 +1,4 @@
-/***********************************************************
-File name: 05_breathingLed.ino
-Description: PWM control the LED gradually from dark to 
-             brighter, then from brighter to dark
-Website: www.quadstore.in
-***********************************************************/
+
 int ledpin=11; //definition digital 11 pins as pin to control the LED
 
 void setup ()
